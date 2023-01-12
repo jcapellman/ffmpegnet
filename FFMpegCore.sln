@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFMpegCore", "FFMpegCore\FFMpegCore.csproj", "{19DE2EC2-9955-4712-8096-C22EF6713E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ffmpegnet.lib", "FFMpegCore\ffmpegnet.lib.csproj", "{19DE2EC2-9955-4712-8096-C22EF6713E4F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFMpegCore.Test", "FFMpegCore.Test\FFMpegCore.Test.csproj", "{F20C8353-72D9-454B-9F16-3624DBAD2328}"
 EndProject

@@ -1,4 +1,4 @@
-# [FFMpegCore](https://www.nuget.org/packages/FFMpegCore/) 
+# [FFMpegNET](https://www.nuget.org/packages/FFMpegCore/) 
 [![NuGet Badge](https://buildstats.info/nuget/FFMpegCore)](https://www.nuget.org/packages/FFMpegCore/)
 [![GitHub issues](https://img.shields.io/github/issues/rosenbjerg/FFMpegCore)](https://github.com/rosenbjerg/FFMpegCore/issues)
 [![GitHub stars](https://img.shields.io/github/stars/rosenbjerg/FFMpegCore)](https://github.com/rosenbjerg/FFMpegCore/stargazers)
